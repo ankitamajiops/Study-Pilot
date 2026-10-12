@@ -1,4 +1,4 @@
-# 🚀 StudyPilot – Agentic AI Study Companion
+# StudyPilot – Agentic AI Study Companion
 
 StudyPilot is an AI-powered study companion that helps students **learn, plan, practice, and track their academic progress** from one platform.
 
@@ -6,7 +6,7 @@ It combines an AI tutor, personalized study planning, quiz generation, progress 
 
 ---
 
-## 🎯 Problem
+## Problem
 
 Students often use multiple platforms for learning, planning, practicing, and tracking their studies. This can make their learning process fragmented and difficult to manage.
 
@@ -14,7 +14,7 @@ They may also struggle to identify weak topics, adjust their study plans when th
 
 ---
 
-## 💡 Our Solution
+## Our Solution
 
 StudyPilot brings these study activities together into one AI-powered platform.
 
@@ -30,30 +30,30 @@ It helps students:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 AI Tutor
+### AI Tutor
 Students can ask questions and receive AI-powered explanations and learning assistance.
 
-### 📅 Smart Study Planner
+### Smart Study Planner
 Create personalized study plans based on learning goals and available time.
 
-### 🔄 Re-Planning
+### Re-Planning
 The planner can adjust the study schedule when a student falls behind or their schedule changes.
 
-### 📝 AI Quiz Generator
+### AI Quiz Generator
 Generate quizzes for practice and evaluate learning.
 
-### 📊 Progress Dashboard
+### Progress Dashboard
 Visualize study activity and learning progress.
 
-### 🎯 Weak-Topic Detection
+### Weak-Topic Detection
 Identify topics where the student needs additional practice.
 
-### 💡 AI Recommendations
+### AI Recommendations
 Provide personalized suggestions based on the student's learning progress and weak areas.
 
-### 🧠 Agentic AI Study Assistant
+### Agentic AI Study Assistant
 The study agent can determine which available tool is appropriate for a user's request, such as:
 
 - Checking progress
@@ -62,12 +62,12 @@ The study agent can determine which available tool is appropriate for a user's r
 
 This allows StudyPilot to provide a more personalized and automated study experience.
 
-### 🔐 Authentication
+### Authentication
 User authentication and data management are handled using Supabase.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -80,7 +80,7 @@ User authentication and data management are handled using Supabase.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
                     ┌──────────────────┐
